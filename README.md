@@ -1,3 +1,6 @@
+#armstrong number
+
+
 n = int(input("Enter a number "))
 s = 0
 t = n
